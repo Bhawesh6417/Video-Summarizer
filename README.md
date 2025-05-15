@@ -1,8 +1,8 @@
-##🎥 Phidata Video AI Summarizer Agent
+🎥 Phidata Video AI Summarizer Agent
 
 This Streamlit-based application leverages Google's Gemini 2.0 Flash Exp and Phidata's AI Agent capabilities to provide detailed, multimodal video summarization with optional web-enhanced insights.
 
-#🚀 Features
+🚀 Features
 
 Upload video files up to 200MB (.mp4, .mov, .avi)
 
@@ -22,7 +22,7 @@ Tabbed display for Summary, Key Moments, and Transcript
 
 Downloadable summary output
 
-#🧠 Tech Stack
+🧠 Tech Stack
 
 Streamlit
 
@@ -36,7 +36,7 @@ DuckDuckGo Tool
 
 Python
 
-#📦 Setup Instructions
+📦 Setup Instructions
 
 Clone the repository:
 
@@ -55,7 +55,7 @@ Run the app:
 
 streamlit run app.py
 
-#📁 Project Structure
+📁 Project Structure
 
 video-ai-summarizer/
 ├── app.py                  # Main Streamlit application
@@ -63,7 +63,7 @@ video-ai-summarizer/
 ├── .env                    # API key (not tracked)
 └── README.md               # This file
 
-#📝 Example Use Cases
+📝 Example Use Cases
 
 Generate meeting summaries from recorded video
 
@@ -73,13 +73,13 @@ Provide multilingual summaries for accessibility
 
 Retrieve detailed responses to video queries
 
-#⚠️ Notes
+⚠️ Notes
 
 Maximum video file size: 200MB
 
 Requires a valid Google Generative AI API Key
 
-#📊 Sample Output
+📊 Sample Output
 
 https://github.com/user-attachments/assets/7ecf9522-f3d5-43d6-b427-0884028ab60f
 
