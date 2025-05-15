@@ -55,14 +55,6 @@ Run the app:
 
 streamlit run app.py
 
-📁 Project Structure
-
-video-ai-summarizer/
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Python dependencies
-├── .env                    # API key (not tracked)
-└── README.md               # This file
-
 📝 Example Use Cases
 
 Generate meeting summaries from recorded video
