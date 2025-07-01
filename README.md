@@ -37,5 +37,5 @@ This is a Streamlit web app that uses Google's Gemini 2.0 model to analyze uploa
 1. **Clone this repository**:
 
 ```bash
-git clone https://github.com/yourusername/video-summarizer.git
+git clone https://github.com/yourusername/multilingual-video-summary.git
 cd gemini-video-analyzer
